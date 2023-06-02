@@ -14,7 +14,7 @@ public class SnackController {
 		s.setNumOf(numOf);
 		s.setPrice(price);
 		
-		String result = "임시저장 완료되었습니다."; //?
+		String result = "저장 완료되었습니다."; //?
 		return result;
 	}
 	public String confirmData () {
