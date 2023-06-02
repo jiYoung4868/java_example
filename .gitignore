@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+abc.txt
+*.peoperties
 
 # Log file
 *.log
